@@ -1,0 +1,24 @@
+
+/* Cabeçario */
+header{
+    padding: 40px;
+}
+
+header .interface{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header a{
+    text-decoration: none;
+}
+
+header nav ul{
+    list-style-type: none;
+}
+
+header nav ul li{
+    display: inline-block;
+    margin-right: 120px;
+}

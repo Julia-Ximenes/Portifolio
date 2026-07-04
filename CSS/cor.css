@@ -1,0 +1,11 @@
+
+/* Cor geral */
+body{
+    background: linear-gradient(#9aa4bb, #324e59);
+    height: 100vh;
+}
+
+/* Cor do cabeçario */
+header a{
+    color:aqua;
+}
