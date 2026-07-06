@@ -22,4 +22,19 @@ header a:hover{
     background-color: #e3e8ef;
 }
 
-/*  */
+/* Cor da parte das habilidades */
+
+.interface2{
+    background-color: #e3e8ef;
+}
+
+/* Cor dos títulos*/
+h2{
+    color: #373b4b;    
+}
+
+/* Cor dos paragrafos */
+ p{
+    color: #373b4b;    
+
+}

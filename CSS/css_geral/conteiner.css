@@ -6,3 +6,19 @@
     margin-top: -40px;
 }
 
+/* Conteiner das habilidades */
+.interface2{
+    margin-top: 240px;
+}
+
+.flex{
+    display: flex;
+}
+
+.habilidades .habilidades-box{
+    display: flex;
+    margin-bottom: 50px;
+    margin-top: 80px;
+    margin-left: -20px;
+}
+

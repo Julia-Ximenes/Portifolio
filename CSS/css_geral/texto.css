@@ -1,8 +1,30 @@
 
 /* Texto do cabeçario */
 header nav ul li{
-    font-size: 40px;
+    font-size: 38px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-/*  */
+/* Titulos*/
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 55px;
+    text-align: center;
+    padding-top: 60px;
+}
+
+
+/* paragrafos das habiliddes */
+.habilidades .habilidades-box p{
+    margin-top: 90px;
+    margin-left: 40px;
+    font-size: 32px;
+}
+
+.habilidades .habilidades-box .p_css{
+    margin-left: -10px;
+}
+
+.habilidades .habilidades-box .p_html{
+    margin-left: -10px;
+}

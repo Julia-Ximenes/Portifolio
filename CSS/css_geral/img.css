@@ -1,6 +1,6 @@
 
 /* Imagem do cabeçario */
-a img{
+.img_interface img{
     height: 200px;
     width: 200px;
     border-radius: 200px;
@@ -8,7 +8,6 @@ a img{
     margin-top: 20px;
     margin-bottom: 20px;
 }
-
 
 /* Imagens das habilidades */
 
