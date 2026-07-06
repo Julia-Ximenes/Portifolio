@@ -1,0 +1,32 @@
+
+/* Imagem do cabeçario */
+a img{
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+/* Imagens das habilidades */
+
+
+/* Imagem do css */
+.css{
+    width: 300px;
+    height: 300px;
+}
+
+/* Imagem do html */
+.html{
+    width: 300px;
+    height: 300px;
+}
+
+/* Imagem do java */
+.java{
+    width: 300px;
+    height: 300px;
+}

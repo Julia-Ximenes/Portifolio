@@ -2,7 +2,7 @@
 /* Cor geral */
 body{
     background: linear-gradient(#9aa4bb, #324e59);
-    height: 100vh;
+    height: 200vh;
 }
 
 /* Cor do texto cabeçario */
@@ -21,3 +21,5 @@ header a:hover{
 .interface{
     background-color: #e3e8ef;
 }
+
+/*  */
