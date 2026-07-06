@@ -5,7 +5,19 @@ body{
     height: 100vh;
 }
 
-/* Cor do cabeçario */
+/* Cor do texto cabeçario */
 header a{
-    color:aqua;
+    color: #373b4b;
+}
+
+header a:hover{
+    color: #6a7397; 
+    transform: scale(1.05);
+    transition: .2s;
+}
+
+/* Cor do cabeçario */
+
+.interface{
+    background-color: #e3e8ef;
 }

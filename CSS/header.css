@@ -12,6 +12,7 @@ header .interface{
 
 header a{
     text-decoration: none;
+    display: inline-block;
 }
 
 header nav ul{
@@ -21,4 +22,11 @@ header nav ul{
 header nav ul li{
     display: inline-block;
     margin-right: 120px;
+}
+
+hr{
+    height: 6px;
+    background-color: #95a1af;
+    border: none;
+    margin-top: -40px;
 }
