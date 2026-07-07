@@ -18,13 +18,18 @@ h2{
 .habilidades .habilidades-box p{
     margin-top: 90px;
     margin-left: 40px;
-    font-size: 32px;
+    font-size: 25px;
+    padding: 20px 20px;
 }
 
 .habilidades .habilidades-box .p_css{
-    margin-left: -10px;
+    margin-left: -30px;
 }
 
 .habilidades .habilidades-box .p_html{
-    margin-left: -10px;
+    margin-left: -30px;
+}
+
+.habilidades .habilidades-box .p_java{
+    margin-left: -20px;
 }
