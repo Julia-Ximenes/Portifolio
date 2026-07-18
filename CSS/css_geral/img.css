@@ -30,3 +30,10 @@
     height: 300px;
 }
 
+/* Imagem da parte sobre mim */
+.sobre_mim_img{
+    width: 300px;
+    height: 300px;
+    margin-right: 30px;
+    margin-top: -40px;
+}

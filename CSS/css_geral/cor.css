@@ -2,7 +2,7 @@
 /* Cor geral */
 body{
     background: linear-gradient(#9aa4bb, #324e59);
-    height: 200vh;
+    height: 300vh;
 }
 
 /* Cor do texto cabeçario */
@@ -37,4 +37,9 @@ h2{
  p{
     color: #373b4b;    
 
+}
+
+/* Cor do texto geral */
+p{
+    color: black;
 }

@@ -1,5 +1,10 @@
 
-/* Seção das habilidades*/
+/* Seção das habilidades */
 section .habilidades{
+    padding: 40px 4%;
+}
+
+/* Seção sobre mim */
+section .sobre_mim{
     padding: 40px 4%;
 }
