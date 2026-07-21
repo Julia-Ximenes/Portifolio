@@ -6,6 +6,8 @@
     margin-top: -40px;
 }
 
+
+
 /* Conteiner das habilidades */
 .interface2{
     margin-top: 240px;
@@ -21,6 +23,8 @@
     margin-top: 80px;
     margin-left: -30px;
 }
+
+
 
 /* Conteiner sobre mim */
 .interface2{
@@ -40,4 +44,61 @@
     margin-bottom: 50px;
     margin-top: 80px;
     margin-left: 30px;
+}
+
+
+
+/* Conteiners dos projetos*/
+
+/* Conteiner do projeto curriculo*/
+.projeto-curriculo .curriculo-box{
+    flex-direction: column;
+    
+}
+
+.conteudo-box{
+    display: flex;
+    margin-left: 110px;
+    margin-top: 50px;
+}
+
+.conteudo-box  p{
+    margin-left: 200px;
+}
+
+.p-box{
+    display: flex;
+    gap: 20px;
+    max-width: 100%; 
+    flex-direction: column;
+    white-space: normal; 
+    overflow-wrap: break-word;
+    word-break: break-all;
+    margin-left: -80px;
+}
+
+
+.p-box .p1{
+    margin-top: 50px;
+}
+
+.p-box .p2{
+    margin-top: 270px;
+}
+
+.botao-box{
+    margin-top: 50px;
+    margin-left: 150px;
+    display: flex;
+    margin-top: -50px;
+    margin-bottom: 20px;
+      
+}
+
+.botao-box .botao{
+    margin-left: 10px;
+}
+
+.botao-box .botao2{
+    margin-left: 40px;
 }

@@ -2,7 +2,7 @@
 /* Cor geral */
 body{
     background: linear-gradient(#9aa4bb, #324e59);
-    height: 300vh;
+    height: 400vh;
 }
 
 /* Cor do texto cabeçario */
@@ -33,6 +33,10 @@ h2{
     color: #373b4b;    
 }
 
+h3{
+    color: #373b4b;
+}
+
 /* Cor dos paragrafos */
  p{
     color: #373b4b;    
@@ -42,4 +46,8 @@ h2{
 /* Cor do texto geral */
 p{
     color: black;
+}
+
+video{
+    background-color: aqua;
 }

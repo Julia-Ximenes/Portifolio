@@ -1,0 +1,7 @@
+
+/* videos dos projetos */
+.conteudo-box video{
+   width: 620px;
+   height: 390px;
+   flex-shrink: 0;
+}
