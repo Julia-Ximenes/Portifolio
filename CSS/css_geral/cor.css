@@ -1,7 +1,7 @@
 
 /* Cor geral */
 body{
-    background: linear-gradient(#9aa4bb, #324e59);
+    background-color: #f3f4f6;
     height: 400vh;
 }
 
@@ -19,33 +19,28 @@ header a:hover{
 /* Cor do cabeçario */
 
 .interface{
-    background-color: #e3e8ef;
+    background-color: #fff;
 }
 
 /* Cor da parte das habilidades */
 
 .interface2{
-    background-color: #e3e8ef;
+    background-color: #fff;
 }
 
 /* Cor dos títulos*/
 h2{
-    color: #373b4b;    
+    color: #1a2f4c ;    
 }
 
 h3{
-    color: #373b4b;
+    color: #1a2f4c ;
 }
 
-/* Cor dos paragrafos */
- p{
-    color: #373b4b;    
-
-}
 
 /* Cor do texto geral */
 p{
-    color: black;
+    color: #475569;
 }
 
 video{
