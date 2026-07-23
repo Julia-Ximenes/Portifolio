@@ -50,12 +50,7 @@
 
 /* Conteiners dos projetos*/
 
-/* Conteiner do projeto curriculo*/
-.projeto-curriculo .curriculo-box{
-    flex-direction: column;
-    
-}
-
+/* Coisas gerais dos conteiners*/
 .conteudo-box{
     display: flex;
     margin-left: 110px;
@@ -94,4 +89,14 @@
 .botao-box .botao2{
     margin-left: 40px;
     margin-top: 70px;
+}
+
+/* Conteiner do projeto curriculo*/
+.projeto-curriculo .curriculo-box{
+    flex-direction: column;
+}
+
+/* Conteiner do projeto viagens*/
+.projeto-viagens{
+    flex-direction: column;
 }
