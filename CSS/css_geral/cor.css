@@ -2,7 +2,7 @@
 /* Cor geral */
 body{
     background-color: #f3f4f6;
-    height: 400vh;
+    height: 800vh;
 }
 
 /* Cor do texto cabeçario */
@@ -41,8 +41,4 @@ h3{
 /* Cor do texto geral */
 p{
     color: #475569;
-}
-
-video{
-    background-color: aqua;
 }
