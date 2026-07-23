@@ -97,6 +97,12 @@
 }
 
 /* Conteiner do projeto viagens*/
-.projeto-viagens{
+.projeto-viagens .viagens-box{
     flex-direction: column;
 }
+
+/* Conteiner do projeto carros*/
+.projeto-carros .carros-box{
+    flex-direction: column;
+}
+
