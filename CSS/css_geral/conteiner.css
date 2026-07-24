@@ -110,3 +110,49 @@
 .projeto-playlist .playlist-box{
     flex-direction: column;
 }
+
+
+
+/* Conteiner contatos */
+.contato-box{
+    display: flex;
+}
+
+.contato-box img{
+    display: flex;
+    margin-left: 470px;
+    margin-top: -200px;
+    margin-bottom: 100px;
+}
+
+.contato-box p{
+   margin-top: 50px;
+   margin-left: 50px;
+}
+
+/* Conteiner formas de contatos */
+.formas-contato{
+    margin-left: 20px;
+    display: inline-block;
+} 
+
+.formas-contato p{
+    margin-left: 80px;
+} 
+
+/* conteiner redes profissionais */
+.redes-profissionais{
+    margin-left: 300px;
+}
+
+.contato-box .redes-profissionais p{
+   margin-left: 200px;
+   margin-top: 80px;
+}
+
+.contato-box .redes-profissionais a{
+   margin-left: 160px;
+  display: inline-block;
+  margin-top: 40px;
+}
+

@@ -1,0 +1,22 @@
+
+/* Hr do header */
+hr{
+    height: 6px;
+    background-color: #95a1af;
+    border: none;
+    margin-top: -40px;
+}
+
+/* Hr das formas de contato */
+.formas{
+    width: 500px;
+    margin-top: -9px;
+    margin-left: 110px;
+}
+
+/* Hr das formas de contato */
+.redes{
+    width: 500px;
+    margin-top: -9px;
+    margin-left: 130px;
+}
