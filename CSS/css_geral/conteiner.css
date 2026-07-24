@@ -88,7 +88,12 @@
 
 .botao-box .botao2{
     margin-left: 40px;
-    margin-top: 70px;
+    margin-top: 0px;
+}
+
+.botao-box .botao1{
+    margin-left: 40px;
+    margin-top: 80px;
 }
 
 /* Conteiner do projeto curriculo*/
