@@ -106,3 +106,7 @@
     flex-direction: column;
 }
 
+/* Conteiner do projeto playlist*/
+.projeto-playlist .playlist-box{
+    flex-direction: column;
+}
