@@ -86,9 +86,17 @@
       
 }
 
-.botao-box .botao2{
+.botao-box2{
+    margin-left: 150px;
+    display: flex;
+    margin-top: -50px;
+    margin-bottom: 20px;
+      
+}
+
+.botao-box2 .botao2{
     margin-left: 40px;
-    margin-top: 0px;
+    margin-top: 40px;
 }
 
 .botao-box .botao1{
