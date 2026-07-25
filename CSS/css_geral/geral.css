@@ -9,3 +9,7 @@
 .interface{
     margin-left: 80px;
 }
+
+html{
+    scroll-behavior: smooth;
+}
